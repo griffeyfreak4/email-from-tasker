@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Email From Tasker</string>
+    <string name="action_settings">Settings</string>
+    <string name="save">Save</string>
+    <string name="plugin_name">Email</string>
+    <string name="message_hint">Scheduled Toast</string>
+    <string name="title_activity_help">Help</string>
+    <string name="help_intro">How to use this plug in</string>
+    <string name="help_uname">Your email account username\n
+        i.e. user@gmail.com</string>
+    <string name="help_pass">Your email account password. This plug in will never store passwords</string>
+    <string name="help_to">Email recipients. Multiple recipients can be designated by placing a comma
+        between addresses\n
+        i.e. p1@aol.com, p2@aol.com</string>
+    <string name="help_sub">Email subject line. Can be left blank</string>
+    <string name="help_body">Email body. Can be left blank</string>
+    <string name="help_attach">Email attachment files. Multiple files can be designated by placing a comma
+        between files. The default directory is the local storage directory. Examples:\n
+        Downloads/file1.pdf\n
+        DCIM/pic1.jpg,DCIM/pic2.jpg</string>
+    <string name="help_var">All Tasker variables are supported in any field.\n
+        i.e. %BATT in body will display battery percentage in email body</string>
+</resources>
